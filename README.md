@@ -2,13 +2,13 @@
 
 Follow my step which i have shown below:::<br>
 At first make a directory name iky.Then open a terminal in this folder.After that you will follow below's instructions.<br>
-        wget http://download.redis.io/redis-stable.tar.gz<br>
+ wget http://download.redis.io/redis-stable.tar.gz<br>
  tar xvzf redis-stable.tar.gz<br>
  cd redis-stable<br>
  make<br>
  sudo make install<br>
  git clone https://gitlab.com/kennbroorg/iKy.git<br>
- cd iKy<\br>
+ cd iKy<br>
  sudo apt install python3-pip<br>
  pip3 install -r requirements.txt<br>
  python3 -m pip install -r requirements.txt<br>
