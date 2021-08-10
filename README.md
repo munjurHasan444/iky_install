@@ -1,6 +1,6 @@
 # iky_install
 
-Follow my step which i have shown below:::<\br>
+Follow my step which i have shown below:::<br>
 At first make a directory name iky.Then open a terminal in this folder.After that you will follow below's instructions.<br>
         wget http://download.redis.io/redis-stable.tar.gz<br>
  tar xvzf redis-stable.tar.gz<br>
